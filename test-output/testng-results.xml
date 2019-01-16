@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Yahoo Test Automation" duration-ms="55045" started-at="2018-10-08T18:47:45Z" finished-at="2018-10-08T18:48:40Z">
+    <groups>
+    </groups>
+    <test name="Yahoo Test" duration-ms="55045" started-at="2018-10-08T18:47:45Z" finished-at="2018-10-08T18:48:40Z">
+      <class name="seleniumsessions.TestNgParameter">
+        <test-method status="PASS" signature="yahoologinTest(java.lang.String, java.lang.String)[pri:0, instance:seleniumsessions.TestNgParameter@56aac163]" name="yahoologinTest" duration-ms="54959" started-at="2018-10-08T18:47:45Z" finished-at="2018-10-08T18:48:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://login.yahoo.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test@yahoo.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- yahoologinTest -->
+      </class> <!-- seleniumsessions.TestNgParameter -->
+    </test> <!-- Yahoo Test -->
+  </suite> <!-- Yahoo Test Automation -->
+</testng-results>
